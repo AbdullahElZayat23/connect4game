@@ -1,0 +1,106 @@
+E:\v 2.00\Final Clien ISA\client\client\client\bin\Debug\client.exe.config
+E:\v 2.00\Final Clien ISA\client\client\client\bin\Debug\client.exe
+E:\v 2.00\Final Clien ISA\client\client\client\bin\Debug\client.pdb
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.csprojAssemblyReference.cache
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.actAsTheGame.resources
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.Connect.resources
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.CoinColors.resources
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.BoardSizes.resources
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\Connect_4_Project.GameBoard.resources
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.Rooms.resources
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.Properties.Resources.resources
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.exe
+E:\v 2.00\Final Clien ISA\client\client\client\obj\Debug\client.pdb
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\bin\Debug\client.exe.config
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\bin\Debug\client.exe
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\bin\Debug\client.pdb
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.actAsTheGame.resources
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.Connect.resources
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.CoinColors.resources
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.BoardSizes.resources
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\Connect_4_Project.GameBoard.resources
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.Rooms.resources
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.exe
+C:\Users\20122\Desktop\v 7.0\Final Clien ISA\client\client\client\obj\Debug\client.pdb
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\bin\Debug\client.exe.config
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\bin\Debug\client.exe
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\bin\Debug\client.pdb
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.csprojAssemblyReference.cache
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.actAsTheGame.resources
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.Connect.resources
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.CoinColors.resources
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.BoardSizes.resources
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\Connect_4_Project.GameBoard.resources
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.Rooms.resources
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.Properties.Resources.resources
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.exe
+E:\v 2.00\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.pdb
+E:\زفت سيرفر\Final Clien ISA\client\client\client\bin\Debug\client.exe.config
+E:\زفت سيرفر\Final Clien ISA\client\client\client\bin\Debug\client.exe
+E:\زفت سيرفر\Final Clien ISA\client\client\client\bin\Debug\client.pdb
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.actAsTheGame.resources
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.Connect.resources
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.CoinColors.resources
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.BoardSizes.resources
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\Connect_4_Project.GameBoard.resources
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.Rooms.resources
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.Properties.Resources.resources
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.exe
+E:\زفت سيرفر\Final Clien ISA\client\client\client\obj\Debug\client.pdb
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\bin\Debug\client.exe.config
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\bin\Debug\client.exe
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\bin\Debug\client.pdb
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.actAsTheGame.resources
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.Connect.resources
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.CoinColors.resources
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.BoardSizes.resources
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\Connect_4_Project.GameBoard.resources
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.Rooms.resources
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.Properties.Resources.resources
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.csproj.GenerateResource.cache
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.exe
+F:\ITI\C#\Project\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.pdb
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\bin\Debug\client.exe.config
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\bin\Debug\client.exe
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\bin\Debug\client.pdb
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.csprojAssemblyReference.cache
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.actAsTheGame.resources
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.Connect.resources
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.CoinColors.resources
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.BoardSizes.resources
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\Connect_4_Project.GameBoard.resources
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.Rooms.resources
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.Properties.Resources.resources
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.csproj.GenerateResource.cache
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.exe
+G:\Final connect4 server & client\Final Clien ISA\client\client\client\obj\Debug\client.pdb
+E:\Connect4Game\Connect4Client\client\bin\Debug\client.exe.config
+E:\Connect4Game\Connect4Client\client\bin\Debug\client.exe
+E:\Connect4Game\Connect4Client\client\bin\Debug\client.pdb
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.actAsTheGame.resources
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.Connect.resources
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.CoinColors.resources
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.BoardSizes.resources
+E:\Connect4Game\Connect4Client\client\obj\Debug\Connect_4_Project.GameBoard.resources
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.Rooms.resources
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.Properties.Resources.resources
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.exe
+E:\Connect4Game\Connect4Client\client\obj\Debug\client.pdb

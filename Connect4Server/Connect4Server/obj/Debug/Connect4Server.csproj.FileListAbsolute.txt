@@ -1,0 +1,35 @@
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\bin\Debug\Connect4Server.exe.config
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\bin\Debug\Connect4Server.exe
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\bin\Debug\Connect4Server.pdb
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csprojAssemblyReference.cache
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.About.resources
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.server.resources
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.Properties.Resources.resources
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.GenerateResource.cache
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.CoreCompileInputs.cache
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.exe
+F:\ITI\C#\Project\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.pdb
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\bin\Debug\Connect4Server.exe.config
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\bin\Debug\Connect4Server.exe
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\bin\Debug\Connect4Server.pdb
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.AssemblyReference.cache
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.SuggestedBindingRedirects.cache
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.About.resources
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.server.resources
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.Properties.Resources.resources
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.GenerateResource.cache
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.CoreCompileInputs.cache
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.exe
+F:\final\Final connect4 server & client\Connect4Server\Connect4Server\obj\Debug\Connect4Server.pdb
+E:\Connect4Game\Connect4Server\Connect4Server\bin\Debug\Connect4Server.exe.config
+E:\Connect4Game\Connect4Server\Connect4Server\bin\Debug\Connect4Server.exe
+E:\Connect4Game\Connect4Server\Connect4Server\bin\Debug\Connect4Server.pdb
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.AssemblyReference.cache
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.SuggestedBindingRedirects.cache
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.About.resources
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.server.resources
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.Properties.Resources.resources
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.GenerateResource.cache
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.csproj.CoreCompileInputs.cache
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.exe
+E:\Connect4Game\Connect4Server\Connect4Server\obj\Debug\Connect4Server.pdb
